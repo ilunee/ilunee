@@ -4,7 +4,7 @@
 보건의료경영을 전공했고, 공공 보건 데이터 분석부터 의료 AI 모델링, 의료 웹서비스 백엔드까지 다뤄 왔습니다.
 
 - Email: ilunee02@gmail.com
-- Portfolio: (Notion 링크)
+- Portfolio: [Notion](https://app.notion.com/p/3c8ab5ce933081d79506e8c78e95e46f)
 
 ### Projects
 
